@@ -2,18 +2,18 @@
 A custom chess script designed to mine and filter balanced starting positions for Double Random Chess. Features a dataset of 445+ verified FENs. Looking for hardware collaboration or a $60 micro-grant for cloud hosting.
 
 
-# ♟️ Double Random Chess Position Miner
+#  Double Random Chess Position Miner
 
 A custom script designed to mine, filter, and verify balanced starting positions for **Double Random Chess**. 
 
 The goal of this project is to build a reliable and fair dataset of starting positions, eliminating major engine/human imbalances right from turn zero. This repository serves as a portfolio project showcasing data mining, algorithmic optimization, and chess engine integration.
 
-## 🚀 Current Status & Achievements
+## Current Status & Achievements
 - **445 Balanced FENs** already successfully mined, tested, and verified.
 - **Hybrid Development:** Coded utilizing AI assistance but heavily adjusted and filtered using strict "human factors" and specific chess evaluation criteria.
 - **Core Logic:** Fully functional and ready to scale.
 
-## ⚠️ Hardware & Funding Needed (\$60 USD)
+## Hardware & Funding Needed (\$60 USD)
 The current algorithm works perfectly, but computing the massive search space for chess variants requires substantial processing power. 
 
 I am currently looking for:
