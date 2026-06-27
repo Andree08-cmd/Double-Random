@@ -26,7 +26,7 @@ O objetivo central deste projeto é mitigar e eliminar os desequilíbrios severo
 
 ---
 
-### 🏆 3. Estágio III: Validação Avançada (Selo de Qualidade Final)
+###  3. Estágio III: Validação Avançada (Selo de Qualidade Final)
 * **Configuração da Engine:** `Profundidade = 30` | `MultiPV = 5`
 * **Critério Estrito de Corte:** Confirmação e estabilização absoluta de todos os limites estabelecidos no **Estágio II**.
 
